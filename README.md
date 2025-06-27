@@ -1,2 +1,0 @@
-# neutronapps
-privacy policy
